@@ -1,16 +1,14 @@
-from omoika.elements import CopyText, TextAreaInput, Empty
-import omoika
+from omoika.elements import Markdown, Empty
+from omoika import Plugin
 
 
-class Whois(omoika.Plugin):
+class Whois(Plugin):
     version = "1.0.0"
     label = "Whois"
     category = "Web"
-    is_available = False
     color = "#F47C0099"
     elements = [
-        TextAreaInput(label="Raw WHOIS"),
-        [Empty(), Empty()]
+        Markdown(label="Raw"),
     ]
     icon = "world-question"
     author = "omoika"
