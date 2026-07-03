@@ -7,7 +7,7 @@ class FaviconHash(omoika.Plugin):
     label = "Favicon Hash"
     category = "Web"
     color = "#EC489999"
-    icon = "brand-google-chrome"
+    icon = "favicon"
     author = "omoika"
     description = "Represent an HTTP favicon hash (e.g., for Shodan/Censys)."
 

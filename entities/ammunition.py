@@ -7,7 +7,7 @@ class Ammunition(omoika.Plugin):
     label = "Ammunition"
     category = "Weapons"
     color = "#9CA3AF99"
-    icon = "bullet"
+    icon = "archery-arrow"
     author = "omoika"
     description = "Represent ammunition type and caliber."
 

@@ -7,7 +7,7 @@ class TrainStation(omoika.Plugin):
     label = "Train Station"
     category = ["Locations", "Transportation"]
     color = "#A78BFA99"
-    icon = "building-rail"
+    icon = "train"
     author = "omoika"
     description = "Represent a train station."
 

@@ -7,7 +7,7 @@ class Blade(omoika.Plugin):
     label = "Blade"
     category = "Weapons"
     color = "#94A3B899"
-    icon = "knife"
+    icon = "slice"
     author = "omoika"
     description = "Represent an edged weapon (knife/machete)."
 

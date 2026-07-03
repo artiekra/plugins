@@ -7,7 +7,7 @@ class OnionService(omoika.Plugin):
     label = "Onion Service"
     category = "Web"
     color = "#4B556399"
-    icon = "brand-tor"
+    icon = "storm"
     author = "omoika"
     description = "Represent a Tor hidden service (v3)."
 

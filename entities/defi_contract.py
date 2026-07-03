@@ -7,7 +7,7 @@ class DeFiContract(omoika.Plugin):
     label = "DeFi Contract"
     category = ["Cryptocurrency", "Finance"]
     color = "#8B5CF699"
-    icon = "brand-ethereum"
+    icon = "currency-ethereum"
     author = "omoika"
     description = "Represent a smart contract (address/network)."
 

@@ -7,7 +7,7 @@ class Child(omoika.Plugin):
     label = "Child"
     category = "Identity"
     color = "#60A5FA99"
-    icon = "baby"
+    icon = "baby-carriage"
     author = "omoika"
     description = "Represent a child (basic demographics)."
 

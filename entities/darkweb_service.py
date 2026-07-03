@@ -7,7 +7,7 @@ class DarkwebService(omoika.Plugin):
     label = "Darkweb Service"
     category = "Web"
     color = "#6B728099"
-    icon = "brand-tor"
+    icon = "storm"
     author = "omoika"
     description = "Represent a darkweb/onion service reference."
 
