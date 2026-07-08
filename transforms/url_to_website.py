@@ -3,7 +3,7 @@ from omoika import transform, Registry
 
 
 @transform(
-    target="website@1.0.0",
+    target="url@1.0.0",
     label="To website",
     icon="world-www"
 )
